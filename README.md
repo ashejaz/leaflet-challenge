@@ -37,6 +37,10 @@ In addition to previous functionality, the resulting [interactive map](https://a
 
 Follow links for the [HTML](Leaflet-Part-2/index.html), [JavaScript](Leaflet-Part-2/static/js/logic.js), and [CSS](Leaflet-Part-2/static/css/style.css) sripts used in this section, and the [final map](https://ashejaz.github.io/leaflet-part-2/).
 
+## Conclusion
+
+This project has successfully visually demonstrated that most earthquakes occur at or near tectonic plate boundaries.
+
 ## References
 Earthquake data: [United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
 
