@@ -28,14 +28,16 @@ For the second part of the challenge, [tectonic plate data](https://raw.githubus
 
 <img width="1097" alt="Screenshot 2023-08-05 at 23 08 23" src="https://github.com/ashejaz/leaflet-challenge/assets/127614970/019ba20f-b49e-49c2-8bf8-0ff677cfff38">
 
+
 The resulting interactive map features togglable data layers and additional Satellite and Topographic tile layers:
 
 <img width="241" alt="Screenshot 2023-08-05 at 23 09 58" src="https://github.com/ashejaz/leaflet-challenge/assets/127614970/cb78c2fe-57bd-4ed8-a0d8-52214ba0516a">
 
 ### Files
 
-Follow links for the [HTML](Leaflet-Part-2/index.html), [JavaScript](Leaflet-Part-2/static/js), and [CSS](Leaflet-Part-2/static/css/style.css) sripts used in this section.
+Follow links for the [HTML](Leaflet-Part-2/index.html), [JavaScript](Leaflet-Part-2/static/js/logic.js), and [CSS](Leaflet-Part-2/static/css/style.css) sripts used in this section.
 
 ## References
 Earthquake data: [United States Geological Survey](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php)
+
 Tectonic plate data: [github.com/fraxen](https://github.com/fraxen/tectonicplates)
